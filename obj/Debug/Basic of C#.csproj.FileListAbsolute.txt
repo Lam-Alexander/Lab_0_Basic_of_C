@@ -1,0 +1,7 @@
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\bin\Debug\Basic of C#.exe.config
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\bin\Debug\Basic of C#.exe
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\bin\Debug\Basic of C#.pdb
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\obj\Debug\Basic of C#.csproj.AssemblyReference.cache
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\obj\Debug\Basic of C#.csproj.CoreCompileInputs.cache
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\obj\Debug\Basic of C#.exe
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Basic of C#\obj\Debug\Basic of C#.pdb
