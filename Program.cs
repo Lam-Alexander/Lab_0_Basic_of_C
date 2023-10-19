@@ -108,7 +108,7 @@ namespace ConsoleApp1
                 array[i] = low_number + i;
             }
 
-            string filePath = @"C:\Users\LamAl\Desktop\numbers.txt";
+            string filePath = @"C:numbers.txt";
 
             using (StreamWriter WriteToFile = new StreamWriter(filePath))
             {
